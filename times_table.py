@@ -5,5 +5,12 @@
 for i in range(13):
     print(f'i is {i} ')
 
-# 3. Using your multiply function can you print out a 9x table.
+# 3. Using your multiply function can you print out times table for 9?
+# 0 * 9 = 0
+# 1 * 9 = 9
+# 2 * 9 = 18
+# ...
+# 12 * 9 = 108
+
+
 # 4. ???

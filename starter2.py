@@ -1,4 +1,4 @@
-# TASK TWO:
+# THE PROGRAMMING PROJECT
 
 # 1. Change the function name from sum to add.
 
@@ -8,19 +8,14 @@ def add(a, b):
     sum = a + b
     return sum
 
-# 3. Just before the print statement, use a variable to store the result of calling the add function.
-# 4. change the print statement to output the sum using the new variable.
-
-
-
 a = int(input('Enter 1st number: '))
 b = int(input('Enter 2nd number: '))
 
-total = add(a, b)
-print(f'Sum of {a} and {b} is {total}')
+print(f'Sum of {a} and {b} is {add(a, b)}')
 
-# 5. Change this program to multiply two numbers.
-# Bonus: ?
+# 3. Just before the print statement, use a variable to store the result of calling the add function and change the print statement to output the sum using the new variable.
+
+# 4. Change this program to multiply two numbers.
 
 
 

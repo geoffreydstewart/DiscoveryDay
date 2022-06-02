@@ -18,7 +18,6 @@ print(f'Sum of {a} and {b} is {add(a, b)}')
 
 # 4. Change this program to multiply two numbers.
 
-# 5. ??
 
 
 

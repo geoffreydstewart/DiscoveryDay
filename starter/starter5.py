@@ -20,6 +20,5 @@ b = int(input('Enter 2nd number: '))
 total = multiply(a, b)
 print(f'Sum of {a} and {b} is {total}')
 
-# 5. ??
 
 

@@ -16,7 +16,7 @@ a = int(input('Enter 1st number: '))
 b = int(input('Enter 2nd number: '))
 
 total = add(a, b)
-print(f'Sum of {a} and {b} is {add(a, b)}')
+print(f'Sum of {a} and {b} is {total}')
 
 # 4. Change this program to multiply two numbers.
 

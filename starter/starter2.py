@@ -4,8 +4,6 @@
 
 # 2. In the renamed function, use a new variable to store the sum, and return this new variable.
 
-# 3. Just before the print statement, use a variable to store the result of calling the add function.
-
 def add(a, b):
     sum = a + b
     return sum
@@ -13,12 +11,14 @@ def add(a, b):
 a = int(input('Enter 1st number: '))
 b = int(input('Enter 2nd number: '))
 
-total = add(a, b)
 print(f'Sum of {a} and {b} is {add(a, b)}')
 
-# 4. change the print statement to output the sum using the new variable.
+# 3. Just before the print statement, use a variable to store the result of calling the add
+#    function and change the print statement to output the sum using the new variable.
 
-# 5. Change this program to multiply two numbers.
+# 4. Change this program to multiply two numbers.
+
+# 5. ??
 
 
 

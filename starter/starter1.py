@@ -12,10 +12,11 @@ print(f'Sum of {a} and {b} is {add(a, b)}')
 
 # 2. In the renamed function, use a new variable to store the sum, and return this new variable.
 
-# 3. Just before the print statement, use a variable to store the result of calling the add function.
+# 3. Just before the print statement, use a variable to store the result of calling the add
+#    function and change the print statement to output the sum using the new variable.
 
-# 4. change the print statement to output the sum using the new variable.
+# 4. Change this program to multiply two numbers.
 
-# 5. Change this program to multiply two numbers.
+# 5. ??
 
 

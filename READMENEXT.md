@@ -17,4 +17,6 @@ b = int(input('Enter 2nd number: '))
 print(f'Sum of {a} and {b} is {sum(a, b)}')
 ```
 
+**What about [bugs?](a404.md)**
+
 [let's go](starter/starter.py)

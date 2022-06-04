@@ -1,4 +1,4 @@
-# THE PROGRAMMING PROJECT
+# PROGRAMMING PROJECT #1
 
 # 1. Change the function name from sum to add.
 
@@ -9,7 +9,6 @@
 
 # 4. Change this program to multiply two numbers.
 
-# 5. ??
 
 
 

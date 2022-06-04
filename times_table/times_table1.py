@@ -1,3 +1,4 @@
+# PROGRAMMING PROJECT #2
 
 # 1. Delete all the code, except for your multiply function. Now, Type in the following code,
 #    below the multiply function, which print the numbers from 0 to 12.

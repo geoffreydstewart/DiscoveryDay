@@ -1,4 +1,4 @@
-# THE PROGRAMMING PROJECT
+# PROGRAMMING PROJECT #1
 
 # 1. Change the function name from sum to add.
 

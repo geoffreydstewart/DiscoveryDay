@@ -1,9 +1,13 @@
 # DiscoveryDay22
-Welcome to the **Introduction to Programming** session for RSE Discovery Day 2022.
+Welcome to the **Introduction to Programming** session for Redwood Shores Elementary 
+Discovery Day 2022.
 
-**What is programming**
+You will learn some basic programming fundamentals using Python :-)
 
-(Get feedback, what are some examples?)
+**What is programming?**
 
+**What are some examples of programs?**
+
+[read me next!](READMENEXT.md)
 
 

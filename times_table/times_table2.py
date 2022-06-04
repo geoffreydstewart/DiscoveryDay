@@ -27,6 +27,6 @@ def multiply(a, b):
 for i in range(13):
     product = multiply(i, 9)
     if product > 50:
-        print(f'{product} ')
+        print(f'{product}')
 
 # 4. How could you write a calculator program?

@@ -5,7 +5,7 @@
 # 2. In the renamed function, use a new variable to store the sum, and return this new variable.
 
 # 3. Just before the print statement, use a variable to store the result of calling the add
-#    function and change the print statement to output the sum using the new variable.
+#    function. Now, change the print statement to output the sum using the new variable.
 
 
 def add(a, b):
@@ -18,7 +18,7 @@ b = int(input('Enter 2nd number: '))
 total = add(a, b)
 print(f'Sum of {a} and {b} is {total}')
 
-# 4. Change this program to multiply two numbers.
+# 4. Change this program to multiply two numbers. Hint: use the * character to multiply numbers.
 
 
 

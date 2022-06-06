@@ -14,9 +14,9 @@ b = int(input('Enter 2nd number: '))
 print(f'Sum of {a} and {b} is {add(a, b)}')
 
 # 3. Just before the print statement, use a variable to store the result of calling the add
-#    function and change the print statement to output the sum using the new variable.
+#    function. Now, change the print statement to output the sum using the new variable.
 
-# 4. Change this program to multiply two numbers.
+# 4. Change this program to multiply two numbers. Hint: use the * character to multiply numbers.
 
 
 

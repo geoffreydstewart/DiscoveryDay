@@ -21,7 +21,7 @@ def multiply(a, b):
     product = a * b
     return product
 
-for i in range(13):
+for i in range(16):
     product = multiply(i, 9)
     if product < 100:
         print(f'{product}')

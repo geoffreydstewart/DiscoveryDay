@@ -17,5 +17,6 @@ if 10 > 5:
 #    How could you use this to change your program to only display results greater than 50? Now, only
 #    display numbers less than 100.
 
-# 4. How could you write a calculator program?
+# Bonus:  How could you write a calculator program?
+
 

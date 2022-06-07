@@ -26,4 +26,5 @@ for i in range(16):
     if product < 100:
         print(f'{product}')
 
-# 4. How could you write a calculator program?
+# Bonus:  How could you write a calculator program?
+

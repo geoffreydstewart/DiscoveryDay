@@ -1,6 +1,6 @@
-# DiscoveryDay22
+# DiscoveryDay
 Welcome to the **Introduction to Programming** session for Redwood Shores Elementary 
-Discovery Day 2022.
+Discovery Day 2024.
 
 You will learn some basic programming fundamentals using Python :-)
 

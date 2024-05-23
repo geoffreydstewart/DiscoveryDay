@@ -10,8 +10,7 @@ for i in range(13):
 #    so it prints out the 9 times table for numbers up to 15?
 
 def multiply(a, b):
-    product = a * b
-    return product
+    return (a * b)
 
 for i in range(16):
     print(f'{multiply(i, 9)} ')
@@ -24,5 +23,4 @@ if 10 > 5:
 #    How could you use this to change your program to only display results greater than 50? Now, only
 #    display numbers less than 100.
 
-# Bonus:  How could you write a calculator program?
 

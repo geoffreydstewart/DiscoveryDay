@@ -18,13 +18,12 @@ if 10 > 5:
 #    display numbers less than 100.
 
 def multiply(a, b):
-    product = a * b
-    return product
+    return (a * b)
 
 for i in range(16):
     product = multiply(i, 9)
     if product < 100:
         print(f'{product}')
 
-# Bonus:  How could you write a calculator program?
-
+#    Is there another way we can code this loop to produce the same output, without the
+#    conditional statement?

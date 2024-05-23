@@ -1,23 +1,23 @@
 import sys
 
 def add(a, b):
-    sum = a + b
-    return sum
+    return (a + b)
 
 def multiply(a, b):
-    product = a * b
-    return product
+    return (a * b)
 
 def substract(a, b):
-    difference = a - b
-    return difference
+    return (a - b)
 
 def divide(a, b):
-    quotient = a / b
-    return quotient
+    if b == 0:
+        print("Cannot divide by zero!")
+        return "Undefined"
+    else:
+        return (a / b)
 
-a = int(input('Enter 1st number: '))
-b = int(input('Enter 2nd number: '))
+a = float(input('Enter 1st number: '))
+b = float(input('Enter 2nd number: '))
 op = input('Enter the operation (+, *, -, /): ')
 
 op_name = ''
@@ -33,11 +33,10 @@ elif op == '-':
     result = substract(a, b)
     op_name = 'Difference'
 elif op == '/':
-    result = divide(a, b * 1.0)
+    result = divide(a, b)
     op_name = 'Quotient'
 else:
     print(f'{op} is not a valid operation!')
-    sys.exit()
 
 
 print(f'{op_name} of {a} and {b} is {result}')

@@ -1,7 +1,5 @@
 # PROGRAMMING PROJECT #1
 
-# PROGRAMMING PROJECT #1
-
 # 1. Change the function name from sum to add. Run the program to make sure your change worked.
 
 # 2. Write a new function called multiply. It should be quite similar to your add function, but

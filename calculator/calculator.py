@@ -1,4 +1,4 @@
-# PROGRAMMING PROJECT #2
+# PROGRAMMING PROJECT #3
 
 # 1. Using the code in the first tab, from Project 1, can you implement a simple calculator that can
 #    add, subtract, multiply and divide?

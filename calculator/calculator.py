@@ -1,42 +1,11 @@
-import sys
+# PROGRAMMING PROJECT #2
 
-def add(a, b):
-    return (a + b)
+# 1. Leaving the current tab unchanged, open www.online-python.com in a new tab.
 
-def multiply(a, b):
-    return (a * b)
+# 2. In the new tab, delete all the code, and copy over only the multiply function.
+#    Now, Type in the following code,
 
-def substract(a, b):
-    return (a - b)
+#    Hint2: You can handle the different “operations” using conditionals, like this:
 
-def divide(a, b):
-    if b == 0:
-        print("Cannot divide by zero!")
-        return "Undefined"
-    else:
-        return (a / b)
-
-a = float(input('Enter 1st number: '))
-b = float(input('Enter 2nd number: '))
-op = input('Enter the operation (+, *, -, /): ')
-
-op_name = ''
-result = 0
-
-if op == '+':
-    result = add(a, b)
-    op_name = 'Sum'
-elif op == '*':
-    result = multiply(a, b)
-    op_name = 'Product'
-elif op == '-':
-    result = substract(a, b)
-    op_name = 'Difference'
-elif op == '/':
-    result = divide(a, b)
-    op_name = 'Quotient'
-else:
-    print(f'{op} is not a valid operation!')
-
-
-print(f'{op_name} of {a} and {b} is {result}')
+#    Hint 3: To handle numbers with decimals you need to use the correct data type. Change the
+#    data type of the input from int (integers) to float (floating point numbers).

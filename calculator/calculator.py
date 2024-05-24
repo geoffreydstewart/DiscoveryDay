@@ -1,9 +1,9 @@
 # PROGRAMMING PROJECT #2
 
-# 1. Leaving the current tab unchanged, open www.online-python.com in a new tab.
+# 1. Using the code in the first tab, from Project 1, can you implement a simple calculator that can
+#    add, subtract, multiply and divide?
 
-# 2. In the new tab, delete all the code, and copy over only the multiply function.
-#    Now, Type in the following code,
+# 2. Hint1: You could use a line of code like this to take the operation input.
 
 #    Hint2: You can handle the different “operations” using conditionals, like this:
 

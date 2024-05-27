@@ -2,8 +2,8 @@
 
 # 1. Leaving the current tab unchanged, open www.online-python.com in a new tab.
 
-# 2. In the new tab, delete all the code, and copy over only the multiply function. Now, Type in the following code,
-#    below the multiply function, which prints the numbers from 0 to 12.
+# 2. In the new tab, delete all the code, and copy over only the multiply function from the old tab. Now, Type in
+# the following code, below the multiply function, which prints the numbers from 0 to 12.
 
 for i in range(13):
     print(f'{i}')
